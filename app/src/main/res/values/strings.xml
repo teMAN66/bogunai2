@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bogunai2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_map">Map</string>
+    <string name="custom_info_contents">Custom dfdfinfo contents</string>
+    <string name="default_info_window">Defauldfdfdft info window</string>
+    <string name="custom_info_window">Custofdfsfm info window</string>
+    <string name="state_badge_label">State badge</string>
+</resources>
